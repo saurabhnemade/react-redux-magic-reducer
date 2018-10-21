@@ -1,12 +1,12 @@
-import React, { Component } from 'react'
-
-import ExampleComponent from 'react-redux-magic-reducer'
+import React, { Component } from 'react';
+import MagicComponentContainer from './magicComponent/MagicComponentContainer';
 
 export default class App extends Component {
   render () {
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+        Magic react-redux simple example
+        <MagicComponentContainer/>
       </div>
     )
   }
