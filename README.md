@@ -1,7 +1,7 @@
 
 ## react-redux-magic-reducer
 
-[![NPM](https://img.shields.io/npm/v/react-redux-magic-reducer.svg)](https://www.npmjs.com/package/react-redux-magic-reducer) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Build Status](https://travis-ci.org/saurabhnemade/react-redux-magic-reducer.svg?branch=master)](https://travis-ci.org/saurabhnemade/react-redux-magic-reducer)
+[![NPM](https://img.shields.io/npm/v/react-redux-magic-reducer.svg)](https://www.npmjs.com/package/react-redux-magic-reducer) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Build Status](https://travis-ci.org/saurabhnemade/react-redux-magic-reducer.svg?branch=master)](https://travis-ci.org/saurabhnemade/react-redux-magic-reducer) [![Greenkeeper badge](https://badges.greenkeeper.io/saurabhnemade/react-redux-magic-reducer.svg)](https://greenkeeper.io/)
 
   
 
